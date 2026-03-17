@@ -8,9 +8,10 @@ This project focuses on analyzing an e-commerce dataset to uncover insights rela
 
 ## 📊 Project Screenshots
 
-![Sales Analysis](images/sales.png)
-![Category Analysis](images/category.png)
-![CTR Analysis](images/ctr.png)
+![Sales](sales.png)
+![Customer Segment](Revenue by Customer Segmen.png)
+![Product Category](Revenue by Product Categor.png)
+![Region](Revenue by Region.png)
 
 ---
 
