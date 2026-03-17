@@ -1,70 +1,67 @@
 # 🛒 Ecommerce Data Analysis Project
 
 ## 📌 Project Overview
-This project performs end-to-end analysis of an e-commerce dataset to uncover insights related to sales performance, customer behavior, and marketing effectiveness.
+
+This project focuses on analyzing an e-commerce dataset to uncover insights related to sales performance, customer behavior, and marketing effectiveness. The goal is to derive actionable insights that can help improve business decision-making.
 
 ---
 
-## 🎯 Objectives
-- Analyze sales trends across regions and channels
-- Evaluate the impact of discounts on revenue
-- Understand customer segmentation
-- Measure marketing campaign performance
+## 📊 Project Screenshots
+
+![Sales Analysis](images/sales.png)
+![Category Analysis](images/category.png)
+![CTR Analysis](images/ctr.png)
 
 ---
 
-## 📊 Dataset Description
-The dataset contains:
-- Product category and pricing
-- Customer segments
-- Marketing spend and impressions
-- Click-through rates (CTR)
-- Customer lifetime value (CLV)
+## 🔍 Key Analysis Performed
+
+* Analyzed sales trends across different regions and time periods
+* Evaluated the impact of discounts on revenue
+* Studied customer segments and purchasing behavior
+* Assessed marketing performance using CTR and impressions
+* Compared product categories for performance insights
 
 ---
 
-## 🧹 Data Cleaning
-- Handled missing values
-- Fixed data types
-- Renamed columns for consistency
-- Removed unnecessary data
+## 📈 Key Insights
+
+* Higher discount rates tend to increase sales volume but may reduce profit margins
+* Certain regions and customer segments generate higher revenue
+* Marketing campaigns with higher CTR lead to better conversion
+* Seasonal trends significantly affect sales performance
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
-- Sales distribution across regions
-- Channel performance comparison
-- Discount vs Revenue analysis
-- Customer lifetime value insights
+## 🛠 Tools & Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* Jupyter Notebook
 
 ---
 
-## 🛠 Tools & Technologies
-- Python
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
+## 📂 Project Structure
 
----
-
-## 📌 Key Insights
-- High discounts do not always increase revenue
-- Certain regions generate higher customer lifetime value
-- Marketing channels vary significantly in performance
-- Customer segmentation helps identify premium buyers
+* `ecommerce_analysis.ipynb` → Main analysis notebook
+* `data/test.csv` → Dataset
+* `images/` → Project visualizations
 
 ---
 
 ## 🚀 Conclusion
-This project demonstrates how data analysis can drive better business decisions in e-commerce by identifying trends and optimizing strategies.
+
+This analysis highlights important business patterns in e-commerce data and demonstrates how data-driven decisions can enhance sales and marketing strategies.
 
 ---
 
-## 📎 Project Files
-- `Untitled.ipynb` → Main analysis notebook  
-- `data/test.csv` → Dataset used  
+## 💼 About This Project
+
+This project is part of my data analytics portfolio and showcases my skills in data cleaning, exploratory data analysis (EDA), and visualization.
 
 ---
 
-## 👨‍💻 Author
-**Jatin Yadav**
+⭐ If you found this project useful, feel free to star the repository!
+
